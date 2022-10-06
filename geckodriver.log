@@ -1,0 +1,1856 @@
+1664918610295	geckodriver	INFO	Listening on 127.0.0.1:60961
+1664918610913	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesxdOju"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664918614670	Marionette	INFO	Marionette enabled
+1664918614684	Marionette	INFO	Listening on port 43249
+WebDriver BiDi listening on ws://localhost:55499
+Read port: 43249
+1664918615643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesxdOju/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55499/devtools/browser/21fac3bd-d3d3-46e8-b1a8-31aa64f0ac9e
+1664918623060	geckodriver	INFO	Listening on 127.0.0.1:41457
+1664918623490	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7l7SB3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664918625182	Marionette	INFO	Marionette enabled
+1664918625192	Marionette	INFO	Listening on port 35311
+WebDriver BiDi listening on ws://localhost:47119
+Read port: 35311
+1664918626302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7l7SB3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47119/devtools/browser/35677d2e-6550-4f65-863f-6d69fcf85f12
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664918642042	Marionette	INFO	Stopped listening on port 35311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664918649642	Marionette	INFO	Stopped listening on port 43249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664919123999	geckodriver	INFO	Listening on 127.0.0.1:35357
+1664919124411	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFx5Ws2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664919125655	Marionette	INFO	Marionette enabled
+1664919125665	Marionette	INFO	Listening on port 44785
+WebDriver BiDi listening on ws://localhost:33923
+Read port: 44785
+1664919126698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFx5Ws2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33923/devtools/browser/1674a6fe-4869-44a2-baa8-197f845f785b
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664919526108	Marionette	INFO	Stopped listening on port 44785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664919694778	geckodriver	INFO	Listening on 127.0.0.1:32939
+1664919695164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegWUX7l"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664919696476	Marionette	INFO	Marionette enabled
+1664919696484	Marionette	INFO	Listening on port 40845
+WebDriver BiDi listening on ws://localhost:50789
+Read port: 40845
+1664919697428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegWUX7l/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50789/devtools/browser/7145f910-4a51-40a0-ad02-74f6cd1da8b7
+1664919740343	geckodriver	INFO	Listening on 127.0.0.1:43697
+1664919740737	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegn63lQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664919742136	Marionette	INFO	Marionette enabled
+1664919742143	Marionette	INFO	Listening on port 45971
+WebDriver BiDi listening on ws://localhost:58529
+Read port: 45971
+1664919743274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegn63lQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58529/devtools/browser/fec9014e-2154-4d0d-b6b8-0f8fb8e8e26d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664919766521	Marionette	INFO	Stopped listening on port 40845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664919769122	Marionette	INFO	Stopped listening on port 45971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664920033212	geckodriver	INFO	Listening on 127.0.0.1:33025
+1664920033625	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileryzfTf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920034860	Marionette	INFO	Marionette enabled
+1664920034868	Marionette	INFO	Listening on port 46299
+WebDriver BiDi listening on ws://localhost:56689
+Read port: 46299
+1664920035734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileryzfTf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56689/devtools/browser/99737770-9c79-4b3c-ac3d-bff089a2171e
+1664920125830	geckodriver	INFO	Listening on 127.0.0.1:45501
+1664920126241	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC0f8Yh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920127505	Marionette	INFO	Marionette enabled
+1664920127513	Marionette	INFO	Listening on port 42693
+WebDriver BiDi listening on ws://localhost:56691
+Read port: 42693
+1664920128299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC0f8Yh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56691/devtools/browser/963960b2-a16a-417a-8782-413686fdb898
+1664920151354	geckodriver	INFO	Listening on 127.0.0.1:60579
+1664920151772	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8RfMQC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920153090	Marionette	INFO	Marionette enabled
+1664920153099	Marionette	INFO	Listening on port 34005
+WebDriver BiDi listening on ws://localhost:52555
+Read port: 34005
+1664920154466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8RfMQC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52555/devtools/browser/7d86b31b-1fc3-46b6-989c-3c24880bdf0f
+1664920199452	geckodriver	INFO	Listening on 127.0.0.1:49883
+1664920199674	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejCuLI7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920201503	Marionette	INFO	Marionette enabled
+1664920201510	Marionette	INFO	Listening on port 38735
+WebDriver BiDi listening on ws://localhost:44309
+Read port: 38735
+1664920202307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejCuLI7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44309/devtools/browser/c69a02dd-0d5f-499a-bf74-ffdf2dc176a4
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920257442	Marionette	INFO	Stopped listening on port 46299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920259667	Marionette	INFO	Stopped listening on port 38735
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920262767	Marionette	INFO	Stopped listening on port 42693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920265790	Marionette	INFO	Stopped listening on port 34005
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664920297843	geckodriver	INFO	Listening on 127.0.0.1:56753
+1664920298219	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemAOUxM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920299429	Marionette	INFO	Marionette enabled
+1664920299437	Marionette	INFO	Listening on port 39725
+WebDriver BiDi listening on ws://localhost:38359
+Read port: 39725
+1664920300243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemAOUxM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38359/devtools/browser/3bb6a46c-6a65-4d6d-97fa-b2329c9501f5
+1664920348216	geckodriver	INFO	Listening on 127.0.0.1:38315
+1664920348650	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL69elI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920350000	Marionette	INFO	Marionette enabled
+1664920350007	Marionette	INFO	Listening on port 38443
+WebDriver BiDi listening on ws://localhost:60829
+Read port: 38443
+1664920351102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL69elI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60829/devtools/browser/6ce84613-fae5-4b03-ae18-a94042c4c8a7
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920707997	Marionette	INFO	Stopped listening on port 38443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664920713619	Marionette	INFO	Stopped listening on port 39725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664920903544	geckodriver	INFO	Listening on 127.0.0.1:46303
+1664920903872	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileINiJIH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920905140	Marionette	INFO	Marionette enabled
+1664920905147	Marionette	INFO	Listening on port 45521
+WebDriver BiDi listening on ws://localhost:48171
+Read port: 45521
+1664920905953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileINiJIH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48171/devtools/browser/84d5f325-d21f-4ff1-be27-6e65c4dd64d9
+1664920998025	geckodriver	INFO	Listening on 127.0.0.1:41971
+1664920998303	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileENyXUi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664920999624	Marionette	INFO	Marionette enabled
+1664920999632	Marionette	INFO	Listening on port 46677
+WebDriver BiDi listening on ws://localhost:50109
+Read port: 46677
+1664921000473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileENyXUi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50109/devtools/browser/315983cd-31e4-4d48-a760-2013c991d5c0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664921016849	Marionette	INFO	Stopped listening on port 46677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664921075429	geckodriver	INFO	Listening on 127.0.0.1:53999
+1664921075804	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHW5TLO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664921077278	Marionette	INFO	Marionette enabled
+1664921077286	Marionette	INFO	Listening on port 36185
+WebDriver BiDi listening on ws://localhost:50445
+Read port: 36185
+1664921078377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHW5TLO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50445/devtools/browser/09c1c080-117d-4270-887e-d21afffd461b
+1664921140743	geckodriver	INFO	Listening on 127.0.0.1:45847
+1664921141099	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemjLVSh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664921142569	Marionette	INFO	Marionette enabled
+1664921142576	Marionette	INFO	Listening on port 41247
+WebDriver BiDi listening on ws://localhost:35763
+Read port: 41247
+Read port: 41247
+1664921144330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemjLVSh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35763/devtools/browser/1b5b8a1e-8454-40bd-b92c-5c52013bec97
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664921169546	Marionette	INFO	Stopped listening on port 41247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664921172950	Marionette	INFO	Stopped listening on port 36185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664921175743	Marionette	INFO	Stopped listening on port 45521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:121:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:859:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:764:38
+observe@resource://gre/modules/AsyncShutdown.jsm:577:16
+
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+1664921260621	geckodriver	INFO	Listening on 127.0.0.1:44093
+1664921261017	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHKuWbx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664921262257	Marionette	INFO	Marionette enabled
+1664921262264	Marionette	INFO	Listening on port 42651
+WebDriver BiDi listening on ws://localhost:44413
+Read port: 42651
+1664921263356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHKuWbx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44413/devtools/browser/54e665d9-f65d-45e4-9293-3624cafb4ec8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664921738006	Marionette	INFO	Stopped listening on port 42651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664922153104	geckodriver	INFO	Listening on 127.0.0.1:40671
+1664922153540	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewDfdL6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664922154936	Marionette	INFO	Marionette enabled
+1664922154946	Marionette	INFO	Listening on port 35815
+WebDriver BiDi listening on ws://localhost:34873
+Read port: 35815
+1664922155867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewDfdL6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34873/devtools/browser/fbcce0f6-5398-4498-97af-ed5dad4884b8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664922380607	Marionette	INFO	Stopped listening on port 35815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664922504631	geckodriver	INFO	Listening on 127.0.0.1:55105
+1664922505010	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile76aqeo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664922506398	Marionette	INFO	Marionette enabled
+1664922506405	Marionette	INFO	Listening on port 43323
+Read port: 43323
+WebDriver BiDi listening on ws://localhost:35619
+1664922509332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile76aqeo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35619/devtools/browser/a3640d03-cc1c-4ef3-adb7-0fc0294f0def
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664922563430	Marionette	INFO	Stopped listening on port 43323
+1664927099534	geckodriver	INFO	Listening on 127.0.0.1:42941
+1664927100742	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepxRsJS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664927106283	Marionette	INFO	Marionette enabled
+1664927106518	Marionette	INFO	Listening on port 44829
+WebDriver BiDi listening on ws://localhost:52751
+Read port: 44829
+Read port: 44829
+1664927110627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepxRsJS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52751/devtools/browser/c333847e-2785-4748-b278-35c1d22ba170
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664927191320	Marionette	INFO	Stopped listening on port 44829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664927584928	geckodriver	INFO	Listening on 127.0.0.1:60955
+1664927585348	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTbqEyi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664927586594	Marionette	INFO	Marionette enabled
+1664927586602	Marionette	INFO	Listening on port 35799
+WebDriver BiDi listening on ws://localhost:33063
+Read port: 35799
+1664927587683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTbqEyi/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33063/devtools/browser/0fd4cd9e-f31c-4fcf-ad8d-2cd816571790
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664927668136	geckodriver	INFO	Listening on 127.0.0.1:49091
+1664927668554	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEJNDY9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664927669832	Marionette	INFO	Marionette enabled
+1664927669840	Marionette	INFO	Listening on port 33551
+WebDriver BiDi listening on ws://localhost:37491
+Read port: 33551
+1664927670776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEJNDY9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37491/devtools/browser/901c1c85-4045-4a2d-9d9a-1e336e05a380
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664927819025	Marionette	INFO	Stopped listening on port 33551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664927824430	Marionette	INFO	Stopped listening on port 35799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1664927903423	geckodriver	INFO	Listening on 127.0.0.1:41943
+1664927903841	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileewG86D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664927905112	Marionette	INFO	Marionette enabled
+1664927905119	Marionette	INFO	Listening on port 35067
+WebDriver BiDi listening on ws://localhost:41191
+Read port: 35067
+1664927906065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileewG86D/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41191/devtools/browser/11a08ecf-a603-48e3-8ed5-9facad207555
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928042989	Marionette	INFO	Stopped listening on port 35067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1664928109586	geckodriver	INFO	Listening on 127.0.0.1:58637
+1664928109992	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCeBAd5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928111237	Marionette	INFO	Marionette enabled
+1664928111247	Marionette	INFO	Listening on port 39743
+WebDriver BiDi listening on ws://localhost:47057
+Read port: 39743
+1664928112119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCeBAd5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47057/devtools/browser/21490c7a-9eed-4d0b-bdc6-e89bc55db9f0
+1664928196349	geckodriver	INFO	Listening on 127.0.0.1:33275
+1664928196747	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenl08au"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928198042	Marionette	INFO	Marionette enabled
+1664928198049	Marionette	INFO	Listening on port 44979
+Read port: 44979
+WebDriver BiDi listening on ws://localhost:36353
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928198734	Marionette	INFO	Stopped listening on port 39743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664928199284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenl08au/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36353/devtools/browser/a4316e35-d384-4c42-80ad-6d3dcc433340
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664928256344	geckodriver	INFO	Listening on 127.0.0.1:47083
+1664928256761	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZoeeHi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928258137	Marionette	INFO	Marionette enabled
+1664928258145	Marionette	INFO	Listening on port 38567
+WebDriver BiDi listening on ws://localhost:41565
+Read port: 38567
+1664928259282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZoeeHi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41565/devtools/browser/f171119f-9be2-49fd-8e15-dcdfdd305150
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664928351845	geckodriver	INFO	Listening on 127.0.0.1:35045
+1664928352249	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP34ZD8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928353540	Marionette	INFO	Marionette enabled
+1664928353547	Marionette	INFO	Listening on port 35291
+Read port: 35291
+WebDriver BiDi listening on ws://localhost:42967
+1664928354480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP34ZD8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42967/devtools/browser/7f0b238e-edd0-4296-b2c4-b3fa5c0bd559
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928365621	Marionette	INFO	Stopped listening on port 44979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928374172	Marionette	INFO	Stopped listening on port 38567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664928524858	geckodriver	INFO	Listening on 127.0.0.1:43621
+1664928525285	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVNtcLA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928526526	Marionette	INFO	Marionette enabled
+1664928526534	Marionette	INFO	Listening on port 42445
+WebDriver BiDi listening on ws://localhost:50195
+Read port: 42445
+1664928527567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVNtcLA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50195/devtools/browser/1889c5e6-3ff0-425d-933f-ce595a461437
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664928611976	geckodriver	INFO	Listening on 127.0.0.1:60865
+1664928612388	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBeiAnf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928613689	Marionette	INFO	Marionette enabled
+1664928613696	Marionette	INFO	Listening on port 43157
+WebDriver BiDi listening on ws://localhost:58213
+Read port: 43157
+1664928614583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBeiAnf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58213/devtools/browser/e876bdbf-1890-43e0-9f4c-38e9d1059709
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664928729326	geckodriver	INFO	Listening on 127.0.0.1:44985
+1664928729638	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejbZpXY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928731006	Marionette	INFO	Marionette enabled
+1664928731014	Marionette	INFO	Listening on port 45533
+WebDriver BiDi listening on ws://localhost:41711
+Read port: 45533
+1664928731776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejbZpXY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41711/devtools/browser/01bfb831-5d19-46b8-955e-97339d3eb794
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928807725	Marionette	INFO	Stopped listening on port 45533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928811901	Marionette	INFO	Stopped listening on port 43157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928814447	Marionette	INFO	Stopped listening on port 42445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928819765	Marionette	INFO	Stopped listening on port 35291
+1664928921987	geckodriver	INFO	Listening on 127.0.0.1:33119
+1664928922572	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemkgJj7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664928924380	Marionette	INFO	Marionette enabled
+1664928924387	Marionette	INFO	Listening on port 42169
+WebDriver BiDi listening on ws://localhost:48477
+Read port: 42169
+1664928925262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemkgJj7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48477/devtools/browser/03d8dece-018f-422b-b59a-72ad47a4ab5b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664928963195	Marionette	INFO	Stopped listening on port 42169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664929113420	geckodriver	INFO	Listening on 127.0.0.1:59505
+1664929113843	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGKvcQz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664929115190	Marionette	INFO	Marionette enabled
+1664929115198	Marionette	INFO	Listening on port 38121
+WebDriver BiDi listening on ws://localhost:54871
+Read port: 38121
+1664929116094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKvcQz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54871/devtools/browser/9c255f4c-bea0-4e62-b5f2-7ef6f9f050f1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664929884529	geckodriver	INFO	Listening on 127.0.0.1:58923
+1664929884947	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHEF7XT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664929886196	Marionette	INFO	Marionette enabled
+1664929886203	Marionette	INFO	Listening on port 33941
+WebDriver BiDi listening on ws://localhost:52743
+Read port: 33941
+1664929887019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHEF7XT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52743/devtools/browser/4356e133-e1ae-4c67-b314-5dc2110316b8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664929917165	Marionette	INFO	Stopped listening on port 38121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664929923114	Marionette	INFO	Stopped listening on port 33941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664929981446	geckodriver	INFO	Listening on 127.0.0.1:39001
+1664929981852	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelA6NSb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664929983222	Marionette	INFO	Marionette enabled
+1664929983230	Marionette	INFO	Listening on port 40219
+WebDriver BiDi listening on ws://localhost:55391
+Read port: 40219
+1664929983956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelA6NSb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55391/devtools/browser/4c4bc085-cea2-40d8-a466-78f49e0f76c0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664929998628	Marionette	INFO	Stopped listening on port 40219
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1000: Error: Connection is not open.
+1664930024423	geckodriver	INFO	Listening on 127.0.0.1:33353
+1664930024784	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePGNbRJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930026036	Marionette	INFO	Marionette enabled
+1664930026043	Marionette	INFO	Listening on port 36717
+WebDriver BiDi listening on ws://localhost:35337
+Read port: 36717
+1664930026844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePGNbRJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35337/devtools/browser/d537d3ba-ac93-4a00-9487-cb51d84c0222
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664930041215	Marionette	INFO	Stopped listening on port 36717
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1000: Error: Connection is not open.
+1664930053952	geckodriver	INFO	Listening on 127.0.0.1:56775
+1664930054287	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler7poHv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930055525	Marionette	INFO	Marionette enabled
+1664930055532	Marionette	INFO	Listening on port 35973
+WebDriver BiDi listening on ws://localhost:53603
+Read port: 35973
+1664930056257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler7poHv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53603/devtools/browser/8ba56a45-b292-4f3a-b7b3-e2fc991dd47c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664930069387	Marionette	INFO	Stopped listening on port 35973
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1000: Error: Connection is not open.
+1664930082739	geckodriver	INFO	Listening on 127.0.0.1:59303
+1664930083049	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegFW88a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930084284	Marionette	INFO	Marionette enabled
+1664930084291	Marionette	INFO	Listening on port 41193
+WebDriver BiDi listening on ws://localhost:41557
+Read port: 41193
+1664930085251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegFW88a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41557/devtools/browser/4eb813ef-d528-4623-9685-c1e098616a53
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664930099647	Marionette	INFO	Stopped listening on port 41193
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1000: Error: Connection is not open.
+1664930126794	geckodriver	INFO	Listening on 127.0.0.1:53075
+1664930127228	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecSZBrQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930128645	Marionette	INFO	Marionette enabled
+1664930128652	Marionette	INFO	Listening on port 42263
+WebDriver BiDi listening on ws://localhost:52519
+Read port: 42263
+1664930129622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecSZBrQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52519/devtools/browser/8f3471e9-0b44-4b6c-9544-8869dd40c39c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930152712	Marionette	INFO	Stopped listening on port 42263
+1664930177392	geckodriver	INFO	Listening on 127.0.0.1:37683
+1664930177794	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemHA7xP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930179144	Marionette	INFO	Marionette enabled
+1664930179153	Marionette	INFO	Listening on port 45815
+WebDriver BiDi listening on ws://localhost:48739
+Read port: 45815
+1664930180330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemHA7xP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48739/devtools/browser/698ed0df-3cc2-4e3c-b2be-50ff3c7463ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664930619981	geckodriver	INFO	Listening on 127.0.0.1:58425
+1664930620372	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWeCDH4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930621703	Marionette	INFO	Marionette enabled
+1664930621710	Marionette	INFO	Listening on port 39595
+WebDriver BiDi listening on ws://localhost:34823
+Read port: 39595
+1664930622522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWeCDH4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34823/devtools/browser/eac0fb60-049d-4b7a-be57-7844cc99c5ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930650863	Marionette	INFO	Stopped listening on port 39595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930672285	Marionette	INFO	Stopped listening on port 45815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664930716498	geckodriver	INFO	Listening on 127.0.0.1:47565
+1664930716926	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRwJuSn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930718255	Marionette	INFO	Marionette enabled
+1664930718262	Marionette	INFO	Listening on port 36203
+WebDriver BiDi listening on ws://localhost:52363
+Read port: 36203
+1664930719092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRwJuSn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52363/devtools/browser/ff7d0487-9aa9-403a-bc2a-1835f4ef5d4b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664930762052	geckodriver	INFO	Listening on 127.0.0.1:33769
+1664930762480	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef6gwpy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930763741	Marionette	INFO	Marionette enabled
+1664930763748	Marionette	INFO	Listening on port 36803
+WebDriver BiDi listening on ws://localhost:33753
+Read port: 36803
+1664930764549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef6gwpy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33753/devtools/browser/0c8f2564-18f8-4b4b-8419-2a4141ab3582
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664930807677	geckodriver	INFO	Listening on 127.0.0.1:49597
+1664930808079	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledCZ7pr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930809339	Marionette	INFO	Marionette enabled
+1664930809346	Marionette	INFO	Listening on port 36571
+WebDriver BiDi listening on ws://localhost:50555
+Read port: 36571
+1664930810451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledCZ7pr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50555/devtools/browser/760685b1-e116-4899-b06f-16b5cb845def
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930873482	Marionette	INFO	Stopped listening on port 36571
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664930893204	geckodriver	INFO	Listening on 127.0.0.1:60173
+1664930893596	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI80WHM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930895122	Marionette	INFO	Marionette enabled
+1664930895152	Marionette	INFO	Listening on port 44015
+WebDriver BiDi listening on ws://localhost:51911
+Read port: 44015
+1664930896142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930896702	Marionette	INFO	Stopped listening on port 36803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI80WHM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930901159	Marionette	INFO	Stopped listening on port 36203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51911/devtools/browser/c0d2565f-43e0-49b5-855d-4247f2c8f3f8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664930942605	Marionette	INFO	Stopped listening on port 44015
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664930963644	geckodriver	INFO	Listening on 127.0.0.1:33483
+1664930964025	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTVMkBv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664930965394	Marionette	INFO	Marionette enabled
+1664930965496	Marionette	INFO	Listening on port 39055
+WebDriver BiDi listening on ws://localhost:34011
+Read port: 39055
+1664930966513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTVMkBv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34011/devtools/browser/35b903b6-6f83-47ec-a5a0-2b732065e1d9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664931009091	Marionette	INFO	Stopped listening on port 39055
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664932614807	geckodriver	INFO	Listening on 127.0.0.1:38191
+1664932615176	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9UoekR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664932616987	Marionette	INFO	Marionette enabled
+1664932616996	Marionette	INFO	Listening on port 34997
+WebDriver BiDi listening on ws://localhost:41569
+Read port: 34997
+1664932617746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9UoekR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41569/devtools/browser/da99d352-2ef4-49ff-b730-0c7092a4c0fc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664932649702	Marionette	INFO	Stopped listening on port 34997
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664932659749	geckodriver	INFO	Listening on 127.0.0.1:32987
+1664932660086	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGIpn6c"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664932661526	Marionette	INFO	Marionette enabled
+1664932661538	Marionette	INFO	Listening on port 40035
+WebDriver BiDi listening on ws://localhost:35291
+Read port: 40035
+1664932662966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGIpn6c/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35291/devtools/browser/8e13be15-977a-446e-8751-2adc503692a9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664932707815	Marionette	INFO	Stopped listening on port 40035
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664932726993	geckodriver	INFO	Listening on 127.0.0.1:41385
+1664932727384	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevS7ueh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664932729258	Marionette	INFO	Marionette enabled
+1664932729271	Marionette	INFO	Listening on port 44457
+WebDriver BiDi listening on ws://localhost:36563
+Read port: 44457
+1664932730270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevS7ueh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36563/devtools/browser/c9d4566c-46ef-4469-9d64-c29c08daf738
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664932777859	Marionette	INFO	Stopped listening on port 44457
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664932984752	geckodriver	INFO	Listening on 127.0.0.1:37943
+1664932985093	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile87HC9J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664932986837	Marionette	INFO	Marionette enabled
+1664932986849	Marionette	INFO	Listening on port 37349
+WebDriver BiDi listening on ws://localhost:35531
+Read port: 37349
+1664932987833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile87HC9J/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35531/devtools/browser/8cbafa42-8f97-4160-9959-34d0d4251f8d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664933035337	Marionette	INFO	Stopped listening on port 37349
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933043085	geckodriver	INFO	Listening on 127.0.0.1:55711
+1664933043488	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewn4aup"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933045600	Marionette	INFO	Marionette enabled
+1664933045610	Marionette	INFO	Listening on port 45849
+WebDriver BiDi listening on ws://localhost:57805
+Read port: 45849
+1664933046555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewn4aup/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57805/devtools/browser/1cc45b5a-3324-4db8-bb82-53e76824e4a3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933090829	Marionette	INFO	Stopped listening on port 45849
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664933185637	geckodriver	INFO	Listening on 127.0.0.1:51659
+1664933186013	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL3Za25"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933187617	Marionette	INFO	Marionette enabled
+1664933187629	Marionette	INFO	Listening on port 45943
+WebDriver BiDi listening on ws://localhost:48225
+Read port: 45943
+1664933188604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL3Za25/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48225/devtools/browser/84d75962-7d70-4902-bb4e-873954637076
+1664933205380	Marionette	INFO	Stopped listening on port 45943
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1664933213146	geckodriver	INFO	Listening on 127.0.0.1:34063
+1664933213449	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGJ0jfI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933215065	Marionette	INFO	Marionette enabled
+1664933215077	Marionette	INFO	Listening on port 35915
+WebDriver BiDi listening on ws://localhost:44501
+Read port: 35915
+1664933216148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGJ0jfI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44501/devtools/browser/ae805a03-a6c9-413b-bc38-37b378a198b1
+1664933231864	Marionette	INFO	Stopped listening on port 35915
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933240885	geckodriver	INFO	Listening on 127.0.0.1:41167
+1664933241258	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM5ZExh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933242781	Marionette	INFO	Marionette enabled
+1664933242794	Marionette	INFO	Listening on port 34341
+WebDriver BiDi listening on ws://localhost:34651
+Read port: 34341
+1664933244092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM5ZExh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34651/devtools/browser/ceda560a-42d6-42f1-a236-54d215e57a0c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933270786	Marionette	INFO	Stopped listening on port 34341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664933670587	geckodriver	INFO	Listening on 127.0.0.1:57739
+1664933670852	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegbBZuf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933672476	Marionette	INFO	Marionette enabled
+1664933672485	Marionette	INFO	Listening on port 41995
+WebDriver BiDi listening on ws://localhost:41223
+Read port: 41995
+1664933673338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegbBZuf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41223/devtools/browser/1dd6e3ff-0ca3-4b15-9af7-8c8ff7b3f810
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933692282	Marionette	INFO	Stopped listening on port 41995
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664933695259	geckodriver	INFO	Listening on 127.0.0.1:40769
+1664933695576	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej6Ku0d"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664933697150	Marionette	INFO	Marionette enabled
+1664933697160	Marionette	INFO	Listening on port 41009
+WebDriver BiDi listening on ws://localhost:60733
+Read port: 41009
+1664933698140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej6Ku0d/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60733/devtools/browser/02f38bc2-04a6-4421-ba57-095e937a9ceb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664933792036	Marionette	INFO	Stopped listening on port 41009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664935438748	geckodriver	INFO	Listening on 127.0.0.1:42849
+1664935439124	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9pgSNA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664935441239	Marionette	INFO	Marionette enabled
+1664935441248	Marionette	INFO	Listening on port 43785
+WebDriver BiDi listening on ws://localhost:58099
+Read port: 43785
+1664935442083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9pgSNA/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58099/devtools/browser/d4b95590-8c2e-440e-be1d-93d65298dd41
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664935481670	Marionette	INFO	Stopped listening on port 43785
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664935734734	geckodriver	INFO	Listening on 127.0.0.1:44487
+1664935735040	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecDVy1n"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664935737229	Marionette	INFO	Marionette enabled
+1664935737238	Marionette	INFO	Listening on port 37767
+Read port: 37767
+WebDriver BiDi listening on ws://localhost:40011
+1664935738091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecDVy1n/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40011/devtools/browser/544fd97c-98d6-4391-ad31-fb10aeca7e1f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664935764349	Marionette	INFO	Stopped listening on port 37767
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664935815493	geckodriver	INFO	Listening on 127.0.0.1:37655
+1664935815885	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVxeJbb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664935817550	Marionette	INFO	Marionette enabled
+1664935817570	Marionette	INFO	Listening on port 34185
+WebDriver BiDi listening on ws://localhost:44363
+Read port: 34185
+1664935818353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVxeJbb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44363/devtools/browser/0a7ebcd7-cc5c-4393-9b76-9c975630a48f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664935845061	Marionette	INFO	Stopped listening on port 34185
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664936861891	geckodriver	INFO	Listening on 127.0.0.1:53369
+1664936862281	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewqLgWp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664936864061	Marionette	INFO	Marionette enabled
+1664936864073	Marionette	INFO	Listening on port 43767
+Read port: 43767
+WebDriver BiDi listening on ws://localhost:38047
+1664936864892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewqLgWp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38047/devtools/browser/16c6e23e-66e4-46ea-902b-904861eacc11
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664936893546	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664936977591	geckodriver	INFO	Listening on 127.0.0.1:43425
+1664936977956	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyApQUS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664936979612	Marionette	INFO	Marionette enabled
+1664936979620	Marionette	INFO	Listening on port 45619
+WebDriver BiDi listening on ws://localhost:54327
+Read port: 45619
+1664936980484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyApQUS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54327/devtools/browser/62ebca99-3418-43c9-96bf-35665ec896b8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+1664937010475	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664937069160	Marionette	INFO	Stopped listening on port 45619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664937073014	Marionette	INFO	Stopped listening on port 43767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664938029256	geckodriver	INFO	Listening on 127.0.0.1:36255
+1664938029544	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePcZlvD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664938031243	Marionette	INFO	Marionette enabled
+1664938031254	Marionette	INFO	Listening on port 45685
+WebDriver BiDi listening on ws://localhost:37427
+Read port: 45685
+1664938032121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePcZlvD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37427/devtools/browser/4bff4c58-e25a-4b7c-b3ca-d980c36f8753
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664938195516	Marionette	INFO	Stopped listening on port 45685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664938773830	geckodriver	INFO	Listening on 127.0.0.1:36669
+1664938774218	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewnQVYC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664938775744	Marionette	INFO	Marionette enabled
+1664938775754	Marionette	INFO	Listening on port 46321
+WebDriver BiDi listening on ws://localhost:53107
+Read port: 46321
+1664938776608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewnQVYC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53107/devtools/browser/8b3e8f18-4e50-468d-960c-348dd3615268
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664938999617	Marionette	INFO	Stopped listening on port 46321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664939041059	geckodriver	INFO	Listening on 127.0.0.1:40365
+1664939041304	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ50Gmj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664939042939	Marionette	INFO	Marionette enabled
+1664939042947	Marionette	INFO	Listening on port 39327
+WebDriver BiDi listening on ws://localhost:58407
+Read port: 39327
+1664939043892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ50Gmj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58407/devtools/browser/bae68b40-ed37-447c-8637-b5e2d0fd7de9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664939115915	Marionette	INFO	Stopped listening on port 39327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664939335737	geckodriver	INFO	Listening on 127.0.0.1:48641
+1664939336157	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerkYo72"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664939337750	Marionette	INFO	Marionette enabled
+1664939337758	Marionette	INFO	Listening on port 35615
+Read port: 35615
+WebDriver BiDi listening on ws://localhost:53039
+1664939338652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerkYo72/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53039/devtools/browser/ef7dcdc1-910b-4e85-aac1-c81a2477fb33
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664939512520	Marionette	INFO	Stopped listening on port 35615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664939942243	geckodriver	INFO	Listening on 127.0.0.1:47795
+1664939942533	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHci66z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664939944038	Marionette	INFO	Marionette enabled
+1664939944048	Marionette	INFO	Listening on port 38103
+WebDriver BiDi listening on ws://localhost:55441
+Read port: 38103
+1664939944742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHci66z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55441/devtools/browser/69348b68-0e83-4d89-82d9-f3fd61035316
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940033259	Marionette	INFO	Stopped listening on port 38103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1664940178378	geckodriver	INFO	Listening on 127.0.0.1:55063
+1664940178743	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehr8eIC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940180676	Marionette	INFO	Marionette enabled
+1664940180687	Marionette	INFO	Listening on port 40125
+WebDriver BiDi listening on ws://localhost:42671
+Read port: 40125
+1664940182454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehr8eIC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42671/devtools/browser/16d9a87a-1aca-45eb-ae4e-1ec451e1f120
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940218397	Marionette	INFO	Stopped listening on port 40125
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+1664940224830	geckodriver	INFO	Listening on 127.0.0.1:57677
+1664940225133	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile88PN3b"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940227168	Marionette	INFO	Marionette enabled
+1664940227179	Marionette	INFO	Listening on port 40047
+WebDriver BiDi listening on ws://localhost:48169
+Read port: 40047
+1664940228146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile88PN3b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48169/devtools/browser/728a3def-4897-4d45-b6c4-ac18da89abde
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940278243	Marionette	INFO	Stopped listening on port 40047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664940323930	geckodriver	INFO	Listening on 127.0.0.1:60493
+1664940324335	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS0tKTs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940326098	Marionette	INFO	Marionette enabled
+1664940326107	Marionette	INFO	Listening on port 38589
+WebDriver BiDi listening on ws://localhost:50261
+Read port: 38589
+1664940327457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS0tKTs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50261/devtools/browser/c4247590-ae41-41a3-b081-0f6362e33d3c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940380836	Marionette	INFO	Stopped listening on port 38589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1664940382956	geckodriver	INFO	Listening on 127.0.0.1:55537
+1664940383332	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0aSYvM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940384949	Marionette	INFO	Marionette enabled
+1664940384961	Marionette	INFO	Listening on port 46187
+WebDriver BiDi listening on ws://localhost:52027
+Read port: 46187
+1664940385804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0aSYvM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52027/devtools/browser/f5c4fdff-898b-4cd5-9406-8fda69aef60a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664940427030	geckodriver	INFO	Listening on 127.0.0.1:53389
+1664940427418	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCqu7vt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940429721	Marionette	INFO	Marionette enabled
+1664940429734	Marionette	INFO	Listening on port 36411
+WebDriver BiDi listening on ws://localhost:38065
+Read port: 36411
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940430345	Marionette	INFO	Stopped listening on port 46187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664940430764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCqu7vt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38065/devtools/browser/a3b639c7-cbf8-4e2c-809c-7f21d047bac0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940479826	Marionette	INFO	Stopped listening on port 36411
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664940486081	geckodriver	INFO	Listening on 127.0.0.1:49951
+1664940486384	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyTRfa6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940488231	Marionette	INFO	Marionette enabled
+1664940488239	Marionette	INFO	Listening on port 41433
+WebDriver BiDi listening on ws://localhost:38935
+Read port: 41433
+1664940489209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyTRfa6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38935/devtools/browser/eba8aec7-b0b9-48e8-b378-ef5ba16e7e1b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664940522291	geckodriver	INFO	Listening on 127.0.0.1:54709
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940522988	Marionette	INFO	Stopped listening on port 41433
+1664940523029	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet1GADl"
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940525030	Marionette	INFO	Marionette enabled
+1664940525038	Marionette	INFO	Listening on port 45281
+Read port: 45281
+WebDriver BiDi listening on ws://localhost:46771
+1664940525913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet1GADl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46771/devtools/browser/a21c63a2-19dc-4025-a8a8-04cac2756b2f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664940578068	geckodriver	INFO	Listening on 127.0.0.1:46813
+1664940578374	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMDcNjH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940579985	Marionette	INFO	Marionette enabled
+1664940580000	Marionette	INFO	Listening on port 38629
+WebDriver BiDi listening on ws://localhost:36129
+Read port: 38629
+1664940580913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMDcNjH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36129/devtools/browser/bcffc2c5-72f1-4bfb-9188-220d400cfe2e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1664940669013	geckodriver	INFO	Listening on 127.0.0.1:57875
+1664940669779	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev5gACT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664940671433	Marionette	INFO	Marionette enabled
+1664940671441	Marionette	INFO	Listening on port 44505
+WebDriver BiDi listening on ws://localhost:44897
+Read port: 44505
+1664940672375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev5gACT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44897/devtools/browser/fcb12e8d-b8dc-43f1-be36-620bc5ea4efc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940799491	Marionette	INFO	Stopped listening on port 44505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940802270	Marionette	INFO	Stopped listening on port 38629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1664940803391	Marionette	INFO	Stopped listening on port 45281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:121:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:859:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:764:38
+observe@resource://gre/modules/AsyncShutdown.jsm:577:16
+
