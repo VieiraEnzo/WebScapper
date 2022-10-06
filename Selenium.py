@@ -1,9 +1,10 @@
+from itertools import count
+import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
-import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 busca = 'weather nowcasting'
 
@@ -18,12 +19,11 @@ cursor.get(url)
 #esperar carregar -> clicar no botao de pesquisar -> escrever a palavra chave
 cursor.implicitly_wait(10)
 cursor.find_element(By.ID,"btn-busca-primo").send_keys(" "+ busca + Keys.ENTER)
-cursor.implicitly_wait(30)
 
 
 #descer a tela ate a divisoria
-time.sleep(20)
-cursor.execute_script("window.scrollTo(0, 600)") 
+time.sleep(5)
+cursor.execute_script("window.scrollTo(0, 550)") 
 
 
 #entrar na frame de dentro
@@ -31,39 +31,43 @@ cursor.switch_to.frame('busca_primo')
 
 
 #clicar em selecionar 10 općoes
-quadrado = cursor.find_element(By.CLASS_NAME, 'md-container')
-cursor.implicitly_wait(4)
-time.sleep(3)
+cursor.implicitly_wait(20)
+quadrado = cursor.find_element(By.CLASS_NAME, 'md-container').click()
+
 
 #clicar em selecionar 50
+cursor.implicitly_wait(2)
 cursor.find_element(By.ID, 'chooseTopMax').click()
-cursor.implicitly_wait(3)
+
 
 
 #clicar nos 3 pontinhos
-cursor.find_element(By.CLASS_NAME, 'md-icon-button has-bottom-arrow md-button md-primoExplore-theme md-ink-ripple').click()
-cursor.implicitly_wait(1)
+#element = WebDriverWait(cursor, 20).until(
+#EC.element_to_be_clickable((By.CLASS_NAME, 'md-primoExplore-theme')))
+#element.click()
+
+time.sleep(10)
+cursor.find_element(By.CLASS_NAME,"").click()
 
 
 #clicar no Bibitex
-cursor.find_element(By.ID, 'BibTeXPushToButton').click()
 cursor.implicitly_wait(2)
+cursor.find_element(By.ID, 'BibTeXPushToButton').click()
 
 
 #clicar no botao de codificaćao
+cursor.implicitly_wait(2)
 cursor.find_element(By.ID, 'select_886').click()
-cursor.implicitly_wait(1)
 
 
 #clicar no UTF-8
-cursor.find_element(By.ID, 'select_option_892').click()
 cursor.implicitly_wait(1)
+cursor.find_element(By.ID, 'select_option_892').click()
 
 
 #GRANDIOSO DOWLOAD
+cursor.implicitly_wait(2)
 cursor.find_element(By.CLASS_NAME, 'button-with-icon button-large button-confirm md-button md-primoExplore-theme md-ink-ripple').click()
-cursor.implicitly_wait(10)
-
 
 
 cursor.close()
