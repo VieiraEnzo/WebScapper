@@ -41,9 +41,21 @@ def buscar_dados_das_divs():
 
 #busca as divs classe list-item-wrapper
 driver.implicitly_wait(10)
-resultados = driver.find_elements(By.CLASS_NAME, "list-item-wrapper")
-for div in resultados:
-    buscar_dados_das_divs(div)
+
+# xpath do frame de cada resultado
+n = 1
+inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
+final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a/span/prm-highlight/span"
+xpath = inicio + str(n) + final
+
+resultados = driver.find_elements(By.XPATH, xpath)
+titulo_frame = resultados[0].find_elements(By.CLASS_NAME, "item-title")[0]
+
+print(titulo_frame.get_attribute('innerHTML'))
+
+#resultados = driver.find_elements(By.CLASS_NAME, "list-item-wrapper")
+#for div in resultados:
+#    buscar_dados_das_divs(div)
     
 
 
