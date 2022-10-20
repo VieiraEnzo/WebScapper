@@ -4,8 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-
+RESULTADOS = 10
 ''' 
 Modelando ideia:
 
@@ -14,7 +13,7 @@ Modelando ideia:
         3)Titulo
         4)Descrićão DOI
 '''
-
+artigos = {}
 busca = 'weather nowcasting'
 
 #entrar no site
@@ -28,89 +27,70 @@ driver.implicitly_wait(10)
 driver.find_element(By.ID,"btn-busca-primo").send_keys(" "+ busca + Keys.ENTER)
 
 
-#descer a tela ate a divisoria
-time.sleep(5)
-driver.execute_script("window.scrollTo(0, 550)") 
 
+contador_paginas = 1
 
-#entrar na frame de dentro
-driver.switch_to.frame('busca_primo')
+while contador_paginas <= total_paginas:
 
-def buscar_dados_das_divs():
-    pass
-
-#busca as divs classe list-item-wrapper
-driver.implicitly_wait(10)
-
-# xpath do frame de cada resultado
-n = 1
-inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
-final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a/span/prm-highlight/span"
-xpath = inicio + str(n) + final
-
-resultados = driver.find_elements(By.XPATH, xpath)
-titulo_frame = resultados[0].find_elements(By.CLASS_NAME, "item-title")[0]
-
-print(titulo_frame.get_attribute('innerHTML'))
-
-#resultados = driver.find_elements(By.CLASS_NAME, "list-item-wrapper")
-#for div in resultados:
-#    buscar_dados_das_divs(div)
     
 
+    #descer a tela ate a divisoria
+    time.sleep(5)
+    driver.execute_script("window.scrollTo(0, 550)") 
 
 
+    #entrar na frame de dentro
+    driver.switch_to.frame('busca_primo')
+
+    titulos = []
+    links = []
+
+    # xpath do frame de cada resultado
+    n = 1
+    while n <= RESULTADOS:
 
 
+        inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
+        final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a/span/prm-highlight/span"
+        xpath_titulo = inicio + str(n) + final
 
-#class = list-item-wrapper first-in-page 
-# 8x class = list-item-wrapper
-#list-item-wrapper last-item
+        driver.implicitly_wait(60)
+        titulos.append(driver.find_element(By.XPATH, xpath_titulo).text)  #encontra div
 
+        
+        inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
+        final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a"
+        xpath_link = inicio + str(n) + final
 
+        driver.implicitly_wait(10)
+        links.append(driver.find_element(By.XPATH, xpath_link).get_attribute("href")) #pegar os links
+        
+        n+=1
 
+    doi = []
+    descricao = []
 
+    for link in links:
 
-'''
-#clicar em selecionar 10 općoes
-driver.implicitly_wait(20)
-quadrado = driver.find_element(By.CLASS_NAME, 'md-container').click()
+        driver.get(link)
 
+        xpath_DOI = "/html/body/primo-explore/div/prm-full-view-page/prm-full-view-cont/md-content/div[2]/prm-full-view/div/div/div/div[1]/div/div[5]/div/prm-full-view-service-container/div[2]/div/prm-service-details/div/div"
+        driver.implicitly_wait(20)
+        resultado = driver.find_element(By.XPATH, xpath_DOI).find_elements(By.TAG_NAME,"span")
 
-#clicar em selecionar 50
-driver.implicitly_wait(2)
-driver.find_element(By.ID, 'chooseTopMax').click()
+        
+        for contador ,elemento in enumerate(resultado):
 
+            if elemento.text == "Descrição":
+                descricao.append(resultado[contador + 2].text)
 
+            if "DOI" in elemento.text:
+                doi.append(elemento.text)
 
-#clicar nos 3 pontinhos
-#element = WebDriverWait(cursor, 20).until(
-#EC.element_to_be_clickable((By.CLASS_NAME, 'md-primoExplore-theme')))
-#element.click()
+    contador_paginas +=1
 
-time.sleep(10)
-driver.find_element(By.CLASS_NAME,"").click()
-
-
-#clicar no Bibitex
-driver.implicitly_wait(2)
-driver.find_element(By.ID, 'BibTeXPushToButton').click()
-
-
-#clicar no botao de codificaćao
-driver.implicitly_wait(2)
-driver.find_element(By.ID, 'select_886').click()
-
-
-#clicar no UTF-8
-driver.implicitly_wait(1)
-driver.find_element(By.ID, 'select_option_892').click()
-
-
-#GRANDIOSO DOWLOAD
-driver.implicitly_wait(2)
-driver.find_element(By.CLASS_NAME, 'button-with-icon button-large button-confirm md-button md-primoExplore-theme md-ink-ripple').click()
+for i in range(RESULTADOS):
+    artigos[doi[i]] = [titulos[i],descricao[i]]
 
 
 driver.close()
-'''
