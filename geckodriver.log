@@ -3932,3 +3932,804 @@ RunWatchdog: Mainthread nested event loops during hang:
 ExceptionHandler::GenerateDump cloned child 26834ExceptionHandler::WaitForContinueSignal waiting for continue signal...
 
 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1666616874459	geckodriver	INFO	Listening on 127.0.0.1:47343
+1666616874826	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei0UVl0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666616876144	Marionette	INFO	Marionette enabled
+1666616876153	Marionette	INFO	Listening on port 43115
+Read port: 43115
+WebDriver BiDi listening on ws://127.0.0.1:42617
+1666616876386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei0UVl0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42617/devtools/browser/49addce9-4e42-4ab3-af9c-07d5c697d9df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 355))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1003))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal8589934603/pagestyle68 (resource://devtools/server/actors/page-style.js:1003:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+JavaScript warning: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb, line 22: Script terminated by timeout at:
+r@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:22:11811
+r@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:1:23878
+get@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:64:5318
+fn@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6 line 5 > Function:4:121
+o@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:7037
+$digest@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:15184
+Dn/this.$get</$evalAsync/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16776
+i@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:25376
+ge/l.defer/n<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26841
+setTimeout handler*ge/l.defer@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26816
+$evalAsync@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16747
+On/this.$get</<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:8141
+l@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9230
+$@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9731
+d@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9671
+n@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:10440
+e.prototype.getImageLink/u</o.onerror@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:15315
+EventHandlerNonNull*e.prototype.getImageLink/u<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:15293
+E@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:10529
+e.prototype.getImageLink@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:15189
+e.prototype.getThumbnailFromOther/b<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:23476
+E@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:10529
+e.prototype.getThumbnailFromOther@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:23215
+e.prototype.getThumbnailLinks/b</</</</</<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:28:18505
+u@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:8797
+Vn/l/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9244
+$digest@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:14988
+$apply@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16964
+zn/this.$get</o/c<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:24338
+i@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:25376
+ge/l.defer/n<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26841
+setTimeout handler*ge/l.defer@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26816
+o@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:24227
+e.prototype.ngAfterViewInit@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:59:8386
+r@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:41:25690
+J/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:6770
+Ce/this.$get</Ct/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:13491
+Et@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:13549
+p@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:5892
+Ce/this.$get</ht/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:11040
+u@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:8797
+Vn/l/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9244
+$digest@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:14988
+$apply@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16964
+zn/this.$get</o/c<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:24338
+i@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:25376
+ge/l.defer/n<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26841
+setTimeout handler*ge/l.defer@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26816
+o@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:24227
+e@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:63:16508
+a@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:23406
+r@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:42:1012
+n@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:41:23482
+a@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:23406
+Me/this.$get</</<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:18651
+p@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:5014
+Ce/this.$get</ht/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:2:11040
+u@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:8797
+Vn/l/<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:9244
+$digest@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:14988
+$apply@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16964
+
+console.error: "Unable to find target with innerWindowId:8589934600"
+console.error: "Unable to find target with innerWindowId:8589934600"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3500: TypeError: data.frameData.id is null
+console.error: "Unable to find target with innerWindowId:8589934609"
+console.error: "Unable to find target with innerWindowId:8589934610"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1003))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal8589934614/pagestyle26 (resource://devtools/server/actors/page-style.js:1003:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 1114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 6651 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1003))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 964))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:964:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1677:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 29))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal8589934614/pagestyle26 (resource://devtools/server/actors/page-style.js:1003:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666618366132	Marionette	INFO	Stopped listening on port 43115
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666618368832	geckodriver	INFO	Listening on 127.0.0.1:38389
+1666618369254	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilequt3xp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618370513	Marionette	INFO	Marionette enabled
+1666618370520	Marionette	INFO	Listening on port 35247
+Read port: 35247
+WebDriver BiDi listening on ws://127.0.0.1:55655
+1666618370699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilequt3xp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55655/devtools/browser/ddfd71a2-610e-44f3-8315-1b5bfedd0236
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618514042	Marionette	INFO	Stopped listening on port 35247
+1666618532056	geckodriver	INFO	Listening on 127.0.0.1:48597
+1666618532430	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEgONZO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618533838	Marionette	INFO	Marionette enabled
+1666618533847	Marionette	INFO	Listening on port 35527
+Read port: 35527
+WebDriver BiDi listening on ws://127.0.0.1:59863
+1666618534037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEgONZO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59863/devtools/browser/4c10159a-b12e-4f73-9fd1-e2de249d87b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618570505	Marionette	INFO	Stopped listening on port 35527
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666618582287	geckodriver	INFO	Listening on 127.0.0.1:45667
+1666618582698	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0VpYHK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618584006	Marionette	INFO	Marionette enabled
+1666618584015	Marionette	INFO	Listening on port 37415
+Read port: 37415
+WebDriver BiDi listening on ws://127.0.0.1:52925
+1666618584210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0VpYHK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52925/devtools/browser/abe7b93c-5a2d-4d03-9d23-f5b7a1f29bdb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618635579	Marionette	INFO	Stopped listening on port 37415
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666618743600	geckodriver	INFO	Listening on 127.0.0.1:59605
+1666618744025	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledIjE0q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618745261	Marionette	INFO	Marionette enabled
+1666618745269	Marionette	INFO	Listening on port 43777
+Read port: 43777
+WebDriver BiDi listening on ws://127.0.0.1:48503
+1666618745503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledIjE0q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48503/devtools/browser/b433cb2e-a589-4090-b0ab-d3ab0fb077e7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618813731	Marionette	INFO	Stopped listening on port 43777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666618826991	geckodriver	INFO	Listening on 127.0.0.1:39179
+1666618827397	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCj6VWy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618828668	Marionette	INFO	Marionette enabled
+1666618828676	Marionette	INFO	Listening on port 40485
+Read port: 40485
+WebDriver BiDi listening on ws://127.0.0.1:56719
+1666618828873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCj6VWy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56719/devtools/browser/1523240c-8277-4726-b01d-01056b96cf10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618881833	Marionette	INFO	Stopped listening on port 40485
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666618882074	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[2022-10-24T13:41:22Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1666618884028	geckodriver	INFO	Listening on 127.0.0.1:57823
+1666618884449	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecKm1s6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618885682	Marionette	INFO	Marionette enabled
+1666618885692	Marionette	INFO	Listening on port 33257
+Read port: 33257
+WebDriver BiDi listening on ws://127.0.0.1:54999
+1666618885975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecKm1s6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54999/devtools/browser/e34c67ac-4d09-4ec9-975b-76b86ed685f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666618958243	Marionette	INFO	Stopped listening on port 33257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666618986482	geckodriver	INFO	Listening on 127.0.0.1:54453
+1666618986905	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebUqr7e"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666618988186	Marionette	INFO	Marionette enabled
+1666618988196	Marionette	INFO	Listening on port 36521
+Read port: 36521
+WebDriver BiDi listening on ws://127.0.0.1:59577
+1666618988406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebUqr7e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59577/devtools/browser/8fca8e8b-f96b-4675-a54f-3507b1ef38bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666619023511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+1666619060531	Marionette	INFO	Stopped listening on port 36521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666619062168	geckodriver	INFO	Listening on 127.0.0.1:43129
+1666619062553	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJKeeBQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619063794	Marionette	INFO	Marionette enabled
+1666619063803	Marionette	INFO	Listening on port 42363
+Read port: 42363
+WebDriver BiDi listening on ws://127.0.0.1:40857
+1666619064011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJKeeBQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40857/devtools/browser/5a1cdfc5-0522-4e96-bf2a-8e1117b2fda0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666619098917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 5741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666619217030	geckodriver	INFO	Listening on 127.0.0.1:40979
+1666619217437	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileusn7FF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619218681	Marionette	INFO	Marionette enabled
+1666619218688	Marionette	INFO	Listening on port 40583
+Read port: 40583
+WebDriver BiDi listening on ws://127.0.0.1:47177
+1666619218893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileusn7FF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47177/devtools/browser/48560846-c0ec-4e88-a43e-ad8f493b1c8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+1666619267762	Marionette	INFO	Stopped listening on port 40583
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 7091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666619575526	geckodriver	INFO	Listening on 127.0.0.1:47279
+1666619575914	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLpeRWB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619577320	Marionette	INFO	Marionette enabled
+1666619577329	Marionette	INFO	Listening on port 36877
+Read port: 36877
+WebDriver BiDi listening on ws://127.0.0.1:34227
+1666619577517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLpeRWB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34227/devtools/browser/279607b1-f93a-46f9-8cf6-0b2830191eb2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666619622601	Marionette	INFO	Stopped listening on port 36877
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+1666619667152	geckodriver	INFO	Listening on 127.0.0.1:53195
+1666619667542	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0IkZbP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619668844	Marionette	INFO	Marionette enabled
+1666619668853	Marionette	INFO	Listening on port 45657
+Read port: 45657
+WebDriver BiDi listening on ws://127.0.0.1:37983
+1666619669196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0IkZbP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37983/devtools/browser/087de492-b5ff-4294-8522-67e25f0cc163
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666619704882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+1666619738735	Marionette	INFO	Stopped listening on port 45657
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+SourceActor threw an exception: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+1666619885342	geckodriver	INFO	Listening on 127.0.0.1:38937
+1666619885769	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoRLqk0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619886993	Marionette	INFO	Marionette enabled
+1666619887000	Marionette	INFO	Listening on port 46283
+Read port: 46283
+WebDriver BiDi listening on ws://127.0.0.1:51521
+1666619887202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoRLqk0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51521/devtools/browser/602e922b-adfe-41e8-b1af-88ccab2b34ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666619922999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+1666619945951	Marionette	INFO	Stopped listening on port 46283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1666619978776	geckodriver	INFO	Listening on 127.0.0.1:44467
+1666619979201	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8GQl69"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666619980458	Marionette	INFO	Marionette enabled
+1666619980466	Marionette	INFO	Listening on port 38369
+Read port: 38369
+WebDriver BiDi listening on ws://127.0.0.1:45815
+1666619980748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8GQl69/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45815/devtools/browser/d44862ab-4f90-49c3-9377-bf41070a3050
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666620023844	Marionette	INFO	Stopped listening on port 38369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666620068709	geckodriver	INFO	Listening on 127.0.0.1:49807
+1666620069137	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSH5FT2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666620070372	Marionette	INFO	Marionette enabled
+1666620070379	Marionette	INFO	Listening on port 43621
+Read port: 43621
+WebDriver BiDi listening on ws://127.0.0.1:40491
+1666620070577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSH5FT2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40491/devtools/browser/821534ad-38c6-4076-8056-f3bfd394ef79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666620116032	Marionette	INFO	Stopped listening on port 43621
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666620192679	geckodriver	INFO	Listening on 127.0.0.1:50369
+1666620193105	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexY7lQZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666620194359	Marionette	INFO	Marionette enabled
+1666620194368	Marionette	INFO	Listening on port 41459
+Read port: 41459
+WebDriver BiDi listening on ws://127.0.0.1:60985
+1666620194581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexY7lQZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60985/devtools/browser/761547f5-2f0b-46cb-b46d-f66826656b1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666620227138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 5588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666620600399	geckodriver	INFO	Listening on 127.0.0.1:59735
+1666620600804	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU58CfM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666620602051	Marionette	INFO	Marionette enabled
+1666620602059	Marionette	INFO	Listening on port 44903
+Read port: 44903
+WebDriver BiDi listening on ws://127.0.0.1:39339
+1666620602325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU58CfM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39339/devtools/browser/e733bb88-2984-462f-8442-bd163055e7a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666620643526	Marionette	INFO	Stopped listening on port 44903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 5384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 7635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/S59cL8NpNlz03nuQ7M-TG0OvY6nWg2CBBQLmeE6XtI4.js line 2 > eval line 4665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br/index.php/buscador-primo.html. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting&. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=20&query=any,contains,weather%20nowcasting. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=20&query=any,contains,weather%20nowcasting. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=20&query=any,contains,weather%20nowcasting. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=0&query=any,contains,weather%20nowcasting. Code 2152924148.
+SourceActor threw an exception: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=10&query=any,contains,weather%20nowcasting. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:582:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 582, column: 16
+console.error: (new Error("Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=10&query=any,contains,weather%20nowcasting. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 582))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 582: Error: Failed to fetch https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/search?vid=CAPES_V3&lang=pt_BR&tab=default_tab&search_scope=default_scope&offset=10&query=any,contains,weather%20nowcasting. Code 2152924148.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 568))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal8589934601/pagestyle81 (resource://devtools/server/actors/page-style.js:568:5)", "resource://devtools/shared/protocol/Front.js", 383))
+1666621109148	geckodriver	INFO	Listening on 127.0.0.1:43907
+1666621109661	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileneqzUm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666621110897	Marionette	INFO	Marionette enabled
+1666621110904	Marionette	INFO	Listening on port 40223
+Read port: 40223
+WebDriver BiDi listening on ws://127.0.0.1:60691
+1666621111086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileneqzUm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60691/devtools/browser/3c77433b-bf6b-4b2b-be94-8bfc85a43476
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666621160612	Marionette	INFO	Stopped listening on port 40223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666621216133	Marionette	INFO	Stopped listening on port 41459
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666621218217	geckodriver	INFO	Listening on 127.0.0.1:37817
+1666621218493	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileilooiN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666621219725	Marionette	INFO	Marionette enabled
+1666621219733	Marionette	INFO	Listening on port 42837
+Read port: 42837
+WebDriver BiDi listening on ws://127.0.0.1:49157
+1666621219942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileilooiN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49157/devtools/browser/cac4767b-04c3-45cd-ac86-63d01314ec5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666621252870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://capes-primo.ez29.periodicos.capes.gov.br."
+JavaScript warning: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb, line 60: Script terminated by timeout at:
+get@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/bundle.js?version=c52d3da2bb:60:1329
+fn@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6 line 5 > Function:4:121
+An/this.$get</p/o<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:7639
+o@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:7037
+$digest@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:15184
+$apply@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:16964
+zn/this.$get</o/c<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:3:24338
+i@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:25376
+ge/l.defer/n<@https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6:1:26841
+
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+JavaScript error: https://capes-primo.ez29.periodicos.capes.gov.br/primo-explore/lib/angular.js?version=0ca46bfda6, line 1: Error: [$rootScope:inprog] $digest already in progress
+https://errors.angularjs.org/1.6.10/$rootScope/inprog?p0=%24digest
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-periodicos-capes-gov-br.ez29.periodicos.capes.gov.br."

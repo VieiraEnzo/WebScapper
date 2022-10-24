@@ -2,18 +2,12 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 RESULTADOS = 10
-''' 
-Modelando ideia:
 
-1) Para cada pagina
-    2) Para cada artigo
-        3)Titulo
-        4)Descrićão DOI
-'''
+
 artigos = {}
+titulos = []
+links = []
 busca = 'weather nowcasting'
 
 #entrar no site
@@ -25,70 +19,76 @@ driver.get(url)
 #esperar carregar -> clicar no botao de pesquisar -> escrever a palavra chave
 driver.implicitly_wait(10)
 driver.find_element(By.ID,"btn-busca-primo").send_keys(" "+ busca + Keys.ENTER)
-
-
-
-contador_paginas = 1
-
-while contador_paginas <= total_paginas:
-
     
 
-    #descer a tela ate a divisoria
-    time.sleep(5)
-    driver.execute_script("window.scrollTo(0, 550)") 
+#descer a tela para centraliza a area de pesquisa
+driver.execute_script("window.scrollTo(0, 650)")
 
 
-    #entrar na frame de dentro
-    driver.switch_to.frame('busca_primo')
+#Entra em cada uma das paginas para pegar os links
+var = True
+while var:
 
-    titulos = []
-    links = []
+    try:
 
-    # xpath do frame de cada resultado
-    n = 1
-    while n <= RESULTADOS:
+        #entrar na frame de dentro
+        driver.switch_to.frame('busca_primo')
 
+        n = 1
+        while n <= RESULTADOS:
 
-        inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
-        final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a/span/prm-highlight/span"
-        xpath_titulo = inicio + str(n) + final
+            #pega o titulo adicionando na lista titulos
+            inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
+            final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a/span/prm-highlight/span"
+            xpath_titulo = inicio + str(n) + final
 
-        driver.implicitly_wait(60)
-        titulos.append(driver.find_element(By.XPATH, xpath_titulo).text)  #encontra div
+            driver.implicitly_wait(60)
+            titulos.append(driver.find_element(By.XPATH, xpath_titulo).text)  #encontra div
 
-        
-        inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
-        final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a"
-        xpath_link = inicio + str(n) + final
+            #pega o link adicionando na lista links
+            inicio = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/div/div["
+            final = "]/prm-brief-result-container/div[1]/div[3]/prm-brief-result/h3/a"
+            xpath_link = inicio + str(n) + final
 
-        driver.implicitly_wait(10)
-        links.append(driver.find_element(By.XPATH, xpath_link).get_attribute("href")) #pegar os links
-        
-        n+=1
-
-    doi = []
-    descricao = []
-
-    for link in links:
-
-        driver.get(link)
-
-        xpath_DOI = "/html/body/primo-explore/div/prm-full-view-page/prm-full-view-cont/md-content/div[2]/prm-full-view/div/div/div/div[1]/div/div[5]/div/prm-full-view-service-container/div[2]/div/prm-service-details/div/div"
-        driver.implicitly_wait(20)
-        resultado = driver.find_element(By.XPATH, xpath_DOI).find_elements(By.TAG_NAME,"span")
+            driver.implicitly_wait(10)
+            links.append(driver.find_element(By.XPATH, xpath_link).get_attribute("href")) #pegar os links
+            
+            n+=1
 
         
-        for contador ,elemento in enumerate(resultado):
+        #clicar no botão de proxima pagina
+        xpath_troca_pagina = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/prm-page-nav-menu/div/div/div[1]/div[3]/a"
+        element = driver.find_element(By.XPATH, xpath_troca_pagina)
+        element.location_once_scrolled_into_view
+        element.click()
 
-            if elemento.text == "Descrição":
-                descricao.append(resultado[contador + 2].text)
+    except:
+        var = False
 
-            if "DOI" in elemento.text:
-                doi.append(elemento.text)
 
-    contador_paginas +=1
+doi = []
+descricao = []
 
+#A partir de uma lista de links, pega o DOI e a descricao dos sites e adiciona na lista
+for link in links:
+
+    driver.get(link)
+    #Pega os spans do site
+    xpath_DOI = "/html/body/primo-explore/div/prm-full-view-page/prm-full-view-cont/md-content/div[2]/prm-full-view/div/div/div/div[1]/div/div[5]/div/prm-full-view-service-container/div[2]/div/prm-service-details/div/div"
+    driver.implicitly_wait(20)
+    resultado = driver.find_element(By.XPATH, xpath_DOI).find_elements(By.TAG_NAME,"span")
+
+    #dentro da lista de spans localiza que tem DOI e a descricao
+    for contador ,elemento in enumerate(resultado):
+
+        if elemento.text == "Descrição":
+            descricao.append(resultado[contador + 2].text)
+
+        if "DOI" in elemento.text:
+            doi.append(elemento.text)
+
+
+#Adiciona dentro do dicionario
 for i in range(RESULTADOS):
     artigos[doi[i]] = [titulos[i],descricao[i]]
 
