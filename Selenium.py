@@ -21,19 +21,16 @@ driver.implicitly_wait(10)
 driver.find_element(By.ID,"btn-busca-primo").send_keys(" "+ busca + Keys.ENTER)
     
 
-#descer a tela para centraliza a area de pesquisa
-driver.execute_script("window.scrollTo(0, 650)")
-
-
 #Entra em cada uma das paginas para pegar os links
 var = True
 while var:
 
     try:
-
-        #entrar na frame de dentro
-        driver.switch_to.frame('busca_primo')
-
+        try:
+            driver.switch_to.frame('busca_primo')
+        except:
+            pass
+        
         n = 1
         while n <= RESULTADOS:
 
@@ -58,13 +55,13 @@ while var:
         
         #clicar no botão de proxima pagina
         xpath_troca_pagina = "/html/body/primo-explore/div/prm-explore-main/ui-view/prm-search/div/md-content/div[1]/prm-search-result-list/div/div[1]/prm-page-nav-menu/div/div/div[1]/div[3]/a"
+        driver.implicitly_wait(20)
         element = driver.find_element(By.XPATH, xpath_troca_pagina)
         element.location_once_scrolled_into_view
         element.click()
 
     except:
         var = False
-
 
 doi = []
 descricao = []
