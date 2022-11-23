@@ -1,4 +1,5 @@
 import time
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -91,3 +92,7 @@ for i in range(RESULTADOS):
 
 
 driver.close()
+
+with open("artigos.json", "w") as outfile:
+    json.dump(artigos, outfile)
+    
