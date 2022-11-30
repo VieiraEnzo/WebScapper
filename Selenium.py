@@ -12,14 +12,13 @@ Além das bibliotecas é nescessário que voce instale o driver do Selenium para
 
 
 
-def ScrappPeriodicoCapes(search):
+def ScrappPeriodicoCapes(busca):
 
     RESULTADOS = 10
 
     artigos = {}
     titulos = []
     links = []
-    busca = search
 
     #entrar no site
     driver = webdriver.Firefox()
